@@ -1,0 +1,23 @@
+.container{
+    max-width: 30%;
+    border: 20px solid black;
+    margin-left: 430px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.image{
+    text-align: center;
+    padding: 40px;
+}
+.image img:hover{
+    box-shadow: 2px 2px 5px black;
+    border-radius: 20px;
+
+}
+.image h3:hover{
+    box-shadow: 2px 2px 5px black;
+    border-radius: 20px;
+}
+.image{
+    font-family: arial;
+}
